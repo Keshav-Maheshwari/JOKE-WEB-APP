@@ -1,0 +1,14 @@
+{
+  "name": "jokes-app",
+  "version": "1.0.0",
+  "description": "This Is a Random Joke App",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keshav Maheshwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
